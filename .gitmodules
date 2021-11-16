@@ -32,7 +32,7 @@
   branch = master
 [submodule "stratego"]
   path = stratego
-  url = https://github.com/metaborg/stratego.git
+  url = https://github.com/toinehartman/stratego.git
   branch = master
 [submodule "nabl"]
   path = nabl
